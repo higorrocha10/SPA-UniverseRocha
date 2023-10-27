@@ -1,0 +1,21 @@
+body {
+  background: url(../assets/universeThree.png) no-repeat center/cover;
+}
+
+#app {
+  margin-left: 10.2rem;
+  margin-top: 6.3rem;
+}
+
+h1 {
+  color: #e1e1e6;
+  font-size: 2.4rem;
+  font-weight: 700;
+}
+
+p {
+  color: #e1e1e6;
+  width: 648px;
+  font-size: 1.8rem;
+  line-height: 2.9rem;
+}

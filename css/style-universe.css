@@ -1,0 +1,22 @@
+body {
+  background: url(../assets/universeTwo.png) no-repeat center/cover;
+}
+
+#app {
+  margin-left: 10.2rem;
+  margin-top: 6.3rem;
+}
+
+h1 {
+  font-size: 2.4rem;
+  color: #e1e1e6;
+  text-align: left;
+}
+
+p {
+  color: #e1e1e6;
+  width: 64.8rem;
+  font-size: 1.8rem;
+  line-height: 2.9rem;
+  text-align: left;
+}
